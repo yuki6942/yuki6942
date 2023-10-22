@@ -26,4 +26,4 @@
 
 <p><img align="left" src="https://raw.githubusercontent.com/yuki6942/github-stats-transparent/output/generated/languages.svg" alt="yuki6942" /></p>
 
-<p>&nbsp;<img align="right" src="https://raw.githubusercontent.com/yuki6942/github-stats-transparent/output/generated/overview.svg" alt="yuki6942" /></p>
+<p><img align="right" src="https://raw.githubusercontent.com/yuki6942/github-stats-transparent/output/generated/overview.svg" alt="yuki6942" /></p>
