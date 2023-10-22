@@ -24,6 +24,7 @@
 <h3 align="left">Support:</h3>
 <p><a href="https://ko-fi.com/yuki6942"> <img align="left" src="https://cdn.ko-fi.com/cdn/kofi3.png?v=3" height="50" width="210" alt="yuki6942" /></a></p><br><br>
 
-<p><img align="center" src="https://raw.githubusercontent.com/yuki6942/github-stats-transparent/output/generated/languages.svg" alt="yuki6942" /></p>
 
-<p><img align="center" src="https://raw.githubusercontent.com/yuki6942/github-stats-transparent/output/generated/overview.svg" alt="yuki6942" /></p>
+<p><img src="https://raw.githubusercontent.com/yuki6942/github-stats-transparent/output/generated/languages.svg" alt="yuki6942" /></p>
+
+<p><img src="https://raw.githubusercontent.com/yuki6942/github-stats-transparent/output/generated/overview.svg" alt="yuki6942" /></p>
