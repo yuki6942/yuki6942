@@ -6,7 +6,7 @@
 
 <p align="left"> <a href="https://twitter.com/yuki6942" target="blank"><img src="https://img.shields.io/twitter/follow/yuki6942?logo=twitter&style=for-the-badge" alt="yuki6942" /></a> </p>
 
-- 🔭 I’m currently working on [Silly](https://github.com/yuki6942/Silly)
+- 🔭 I’m currently working on [Mira](https://github.com/yuki6942/Mira)
 
 - 🌱 I’m currently learning **C#**
 
