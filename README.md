@@ -10,7 +10,7 @@
 
 - 🌱 I’m currently learning **C#**
 
-- 📫 How to reach me **contact@yuki6942.me**
+- 📫 How to reach me **contact@yuki6942.xyz**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
