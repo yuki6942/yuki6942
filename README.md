@@ -1,7 +1,7 @@
 
 
-<h1>Moved to [GitLab](https://gitlab.com/yuki6942/)</h1>
-<p>Updates to projects will be uploaded there</p>
+Moved to [GitLab](https://gitlab.com/yuki6942/)
+Updates to projects will be uploaded there
 
 <h1 align="center">Hi 👋, I'm Philipp</h1>
 <h3 align="center">Developer from Germany</h3>
