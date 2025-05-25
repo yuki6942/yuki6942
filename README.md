@@ -20,5 +20,5 @@
 </p>
 
 <p align="center">
-  <img src="https://count.getloli.com/@yuki6942?theme=miku&pixelated=1&darkmode=auto" alt="visitor counter" />
+  <img src="https://count.getloli.com/@yuki6942?theme=love-and-deepspace&pixelated=1&darkmode=auto" alt="visitor counter" />
 </p>
